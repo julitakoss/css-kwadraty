@@ -1,38 +1,15 @@
 .parent-square{
     height: 550px;
     width: 300px;
-    position: relative;  
     background-color: gray;
   }
-.square1{
+.squares{
     width: 100px;
     height: 100px;
-    position: relative;
-    left: 40px;
-    top: 0px;
+    margin: 20px;
     background-color: orange; 
 }
-.square2{
-    width: 100px;
-    height: 100px;
-    position: relative;
-    left: 40px;
-    top: 0px;
-    background-color:orange;
-}
-.square3{   
-    width: 100px;
-    height: 100px;
-    position: relative;
-    left: 40px;
-    top: 0px;
-    background-color: orange;
-}
-.square4{
-    width: 100px;
-    height: 100px;
-    position: relative;
-    left: 40px;
-    top: 0px;
-    background-color:orange;
+h1{
+    margin: 30px;
+    color: white;
 }
